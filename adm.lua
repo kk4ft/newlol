@@ -1,5 +1,4 @@
-local valuelist = {
-    ["Hedgehog fr"] = 39,
+["Hedgehog fr"] = 39,
     ["Hedgehog f"] = 38.75,
     ["Hedgehog r"] = 38.5,
     ["Hedgehog"] = 39,
