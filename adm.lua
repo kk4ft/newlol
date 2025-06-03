@@ -1,4 +1,4 @@
-local valuelist = {
+return {
     ["Hedgehog fr"] = 39,
     ["Hedgehog f"] = 38.75,
     ["Hedgehog r"] = 38.5,
